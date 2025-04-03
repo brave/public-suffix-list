@@ -10,7 +10,7 @@ permissions: {}
 
 jobs:
   upload-website:
-    uses: publicsuffix/publicsuffix.org/.github/workflows/deploy-site.yaml@main
+    uses: publicsuffix/publicsuffix.org/.github/workflows/deploy-site.yaml@420309659997fdcfa02af9d9651dbfcc9a7ffb52 # main
     permissions:
       contents: read
       id-token: write
